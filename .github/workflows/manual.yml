@@ -2,7 +2,7 @@ on:
   workflow_dispatch:
     inputs:
       logLevel:
-        description: 'Log level'     
+        description: 'Log level a'     
         required: true
         default: 'warning'
       tags:
